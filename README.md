@@ -7,7 +7,7 @@
 - Had to do 6 pcb trace and throughhole repairs due to damage sustained from desoldering and resoldering since to the pcb is super cheap.  
 - Took roughly 25 hours and 300 solders. Worth it! Looks and feels infinitely better.  
 - Keycaps used: [PBT OEM Fog White Keycaps](https://kbdfans.com/products/pbt-oem-fog-white-keycaps?variant=34166308995211)
-- Switches used: [gateron Clear Linear Switch Plate Mount](https://www.amazon.com/Switches-Underglow-Compatible-Mechanical-Transparent/dp/B07K8464CR/ref=sr_1_2?dchild=1&keywords=gateron%2Bclear&qid=1614068952&sr=8-2&th=1)
+- Switches used: [Gateron Clear Linear Switch Plate Mount 35G Force](https://www.amazon.com/Switches-Underglow-Compatible-Mechanical-Transparent/dp/B07K8464CR/ref=sr_1_2?dchild=1&keywords=gateron%2Bclear&qid=1614068952&sr=8-2&th=1)
 
 ## Image Gallery
 ![new switches](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/switches_closeup.JPG)
