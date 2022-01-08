@@ -51,7 +51,7 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ## Project Metadata
 
-**Project Status** : Archived
-**Project Progress** : Completed
+**Project Status** : Archived  
+**Project Progress** : Completed  
 
 **Project dates** : Dec '20 - Jan '21  
