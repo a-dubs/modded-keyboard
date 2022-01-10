@@ -18,35 +18,35 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 ## Image Gallery
 
 ### New Switches Installed 
-![new switches](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/switches_closeup.JPG)
+![new switches](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/switches_closeup.JPG)
 <br>
 
 ### New Keycaps Installed
-![final result](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/new_kb.JPG)
+![final result](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/new_kb.JPG)
 <br>
 
 ### Side-View of New Switches
-![new switches](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/switches_closeup2.JPG)
+![new switches](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/switches_closeup2.JPG)
 <br>
 
 ### The Keyboard's PCB
-![the pcb](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/pcb.JPG)
+![the pcb](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/pcb.JPG)
 <br>
 
 ### Original (Ugly!) Keycaps
-![original keyboard](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/old_kb.JPG)
+![original keyboard](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/old_kb.JPG)
 <br>
 
 ### Original Switches 
-![original switches](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/old_switches.JPG)
+![original switches](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/old_switches.JPG)
 <br>
 
 ### Close-Up of New Switches
-![new switches](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/switches_closeup3.JPG)
+![new switches](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/switches_closeup3.JPG)
 <br>
 
 ### Side-View of New Keycaps
-![final result](https://github.com/AlecWarren19/modded-keyboard/blob/master/images/new_kb2.JPG)
+![final result](https://github.com/a-dubs/modded-keyboard/blob/master/image_gallery/new_kb2.JPG)
 <br>
 
 ## Project Metadata
